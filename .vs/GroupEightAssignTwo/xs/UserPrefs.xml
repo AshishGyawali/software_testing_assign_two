@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{17E0A333-3C93-4BD3-8A39-9AF0870105C5}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.GroupEightAssignTwo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GroupEightAssignTwo.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroupEightAssignTwo.nUnitTest/ProductTest.cs">
+    <Files>
+      <File FileName="GroupEightAssignTwo/Program.cs" Line="9" Column="53" />
+      <File FileName="GroupEightAssignTwo/Product.cs" Line="25" Column="33" />
+      <File FileName="GroupEightAssignTwo.nUnitTest/UnitTest1.cs" Line="47" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GroupEightAssignTwo" expanded="True">
+            <Node name="GroupEightAssignTwo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="GroupEightAssignTwo" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GroupEightAssignTwo PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

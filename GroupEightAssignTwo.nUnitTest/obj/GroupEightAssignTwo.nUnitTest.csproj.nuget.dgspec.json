@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo.nUnitTest/GroupEightAssignTwo.nUnitTest.csproj": {}
+  },
+  "projects": {
+    "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo.nUnitTest/GroupEightAssignTwo.nUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo.nUnitTest/GroupEightAssignTwo.nUnitTest.csproj",
+        "projectName": "GroupEightAssignTwo.nUnitTest",
+        "projectPath": "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo.nUnitTest/GroupEightAssignTwo.nUnitTest.csproj",
+        "packagesPath": "/Users/ashishgyawali/.nuget/packages/",
+        "outputPath": "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo.nUnitTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ashishgyawali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/GroupEightAssignTwo.csproj": {
+                "projectPath": "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/GroupEightAssignTwo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/GroupEightAssignTwo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/GroupEightAssignTwo.csproj",
+        "projectName": "GroupEightAssignTwo",
+        "projectPath": "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/GroupEightAssignTwo.csproj",
+        "packagesPath": "/Users/ashishgyawali/.nuget/packages/",
+        "outputPath": "/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ashishgyawali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
