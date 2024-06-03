@@ -1,0 +1,14 @@
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/bin/Debug/net7.0/GroupEightAssignTwo
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/bin/Debug/net7.0/GroupEightAssignTwo.deps.json
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/bin/Debug/net7.0/GroupEightAssignTwo.runtimeconfig.json
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/bin/Debug/net7.0/GroupEightAssignTwo.dll
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/bin/Debug/net7.0/GroupEightAssignTwo.pdb
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/Debug/net7.0/GroupEightAssignTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/Debug/net7.0/GroupEightAssignTwo.AssemblyInfoInputs.cache
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/Debug/net7.0/GroupEightAssignTwo.AssemblyInfo.cs
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/Debug/net7.0/GroupEightAssignTwo.csproj.CoreCompileInputs.cache
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/Debug/net7.0/GroupEightAssignTwo.dll
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/Debug/net7.0/refint/GroupEightAssignTwo.dll
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/Debug/net7.0/GroupEightAssignTwo.pdb
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/Debug/net7.0/GroupEightAssignTwo.genruntimeconfig.cache
+/Users/ashishgyawali/Projects/GroupEightAssignTwo/GroupEightAssignTwo/obj/Debug/net7.0/ref/GroupEightAssignTwo.dll
